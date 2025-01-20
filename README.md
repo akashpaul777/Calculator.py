@@ -1,7 +1,7 @@
 # Python Calculator
 
 A simple calculator built using Python that supports basic arithmetic operations.
-![Project Logo](calc-UI.png)
+![Project Logo](calc-UI.PNG)
 
 ## Features
 - Addition
